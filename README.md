@@ -1,2 +1,4 @@
 # Sentiment-Analysis-IMDB
-An attempt to classify positive and negative movie reviews in the IMDB dataset
+* A Bidirectional GRU has been designed using Keras for the problem.
+* The pre-trained GLoVE model has been used as the basis for creating embeddings
+* The accuracy achieved is 86.70% on the test dataset
